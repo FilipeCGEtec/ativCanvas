@@ -2,6 +2,16 @@ const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 canvas.width = 500;
 canvas.height = 500;
+
+//imagem
+//cria uma variavel de imagem
+var foto = new Image();
+foto.addEventListener('load', function() {
+    ctx.drawImage(foto,0,160);
+},false);
+
+foto.src = 'img/gato.png';
+
 //arco direito do coração
 ctx.moveTo(100,75);
 ctx.arc(75,75, 25, 0, Math.PI, true);
@@ -22,9 +32,14 @@ ctx.quadraticCurveTo(150, 100, 100, 150);
 ctx.stroke();
 //base
 ctx.fillStyle = 'red';
-ctx.fillRect(50, 150, 100, 5);
+ctx.fillRect(50, 150, 100, 500);
 
-//imagem
-//cria uma variavel de imagem
-var foto = new Image;
-foto.src = '../img/gato.png';
+
+
+
+
+
+
+
+
+
