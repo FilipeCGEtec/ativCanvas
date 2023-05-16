@@ -17,4 +17,4 @@
     o canvas.
 </p>
 
-    ("img/foto.png")
+   <img src="img/foto.png">
