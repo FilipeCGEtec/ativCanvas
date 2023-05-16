@@ -17,4 +17,4 @@
     o canvas.
 </p>
 
-    <img src= (https://github.com/FilipeCGEtec/ativCanvas/assets/127855543/6e50266d-99f2-4810-bf5a-b93610257809)/>
+    <img src= "img/foto.png"/>
