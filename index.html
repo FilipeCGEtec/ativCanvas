@@ -1,4 +1,5 @@
 <!DOCTYPE HTML>
+<meta charset="utf-8">
 <html lang="pt-br">
    <head>
      <title>Atividade | Canvas - 01</title>
@@ -10,9 +11,18 @@
   <body>
      
      
-     <canvas id="canvas"></canvas>
-     
-     
+   <canvas id="canvas"></canvas>
+   <br><br><br>
+     <div class="container">
+         <div><button onclick="figura()">Imagem</button></div>
+         <div><button onclick="coracao()">Coração</button></div>
+         <div><button onclick="curva()">Curva</button></div>
+         <div><button onclick="circulo()">Círculo</button></div>
+         <div><button onclick="retangulo()">Retângulo</button></div>
+         <div><button onclick="linha()">Linha</button></div>
+         <div><button id="apaga" onclick="apaga()">Apagar Figuras</button></div>
+      </div>
+ 
   </body>
   <script src="js/script.js"></script>
 </html>
