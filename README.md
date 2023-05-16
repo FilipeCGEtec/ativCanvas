@@ -1,13 +1,13 @@
 # ativCanvas
 <h1>Atividade de DJW - Canvas</h1>
 
-<h2>Autores: Filipe Custodio, João Lucas</h2>
+<h2>Autores: </h2>Filipe Custodio, João Lucas
 
-<h2>Elementos usados: HTML, Css, JavaScript</h2>
+<h2>Elementos usados:</h2> HTML, Css, JavaScript
 
-<h2>Andamento do projeto</h2>: Concluído
+<h2>Andamento do projeto:</h2> Concluído
 
-<h2>Descrição do projeto<h2>:
+<h2>Descrição do projeto:<h2>
 <p>
     Esta Página contém o elemento canvas, onde é possível fazer figuras, imagens e até desenhos.
     Este site apresentará de forma simples algumas das funções básicas do canvas, como fazer:
@@ -16,3 +16,5 @@
     com funções bem simples e autodescritivas, tendo o objetivo de ensinar o usuário e utilizar
     o canvas.
 </p>
+
+    ![image](https://github.com/FilipeCGEtec/ativCanvas/assets/127855543/6e50266d-99f2-4810-bf5a-b93610257809)
