@@ -77,6 +77,7 @@ function coracao(){
 
 
 function apaga(){
+    //apaga os desenhos
     ctx.clearRect(0,0,500,500);
 }
 
